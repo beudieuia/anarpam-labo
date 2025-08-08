@@ -1,0 +1,20 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/analyses/[id]/edit/page": "app/analyses/[id]/edit/page.js",
+  "/analyses/[id]/page": "app/analyses/[id]/page.js",
+  "/analyses/new/page": "app/analyses/new/page.js",
+  "/analyses/page": "app/analyses/page.js",
+  "/page": "app/page.js",
+  "/analyses/[id]/result/page": "app/analyses/[id]/result/page.js",
+  "/patients/[id]/edit/page": "app/patients/[id]/edit/page.js",
+  "/patients/new/page": "app/patients/new/page.js",
+  "/patients/page": "app/patients/page.js",
+  "/patients/[id]/page": "app/patients/[id]/page.js",
+  "/reports/[id]/page": "app/reports/[id]/page.js",
+  "/reports/new/page": "app/reports/new/page.js",
+  "/samples/[id]/page": "app/samples/[id]/page.js",
+  "/reports/[id]/edit/page": "app/reports/[id]/edit/page.js",
+  "/samples/page": "app/samples/page.js",
+  "/samples/new/page": "app/samples/new/page.js",
+  "/reports/page": "app/reports/page.js"
+}
